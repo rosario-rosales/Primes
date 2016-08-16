@@ -1,0 +1,14 @@
+.t-blanco{color: #fff;}
+.f-gris{background: #4C4C56;}
+.f-celeste{background: #33EDEB;}
+.f-gris-claro{background: #DDE3E6;}
+.f-blanco{background: #fff;}
+.centrado{text-align: center;}
+.espacio{padding: 1.5em 2em 3em;}
+.enlinea{display: inline-block;}
+.linea-inf{border-bottom: 1px solid #DDE3E6; padding: .5em;}
+.transparente{background-color: rgba(208, 160, 154, 0.3); border: none; }
+.w-90{	width: 90%;}
+.pbt3{padding: .8em .3em;}
+.pl15{padding-left: 15px;}
+.btn{background-color: rgba(177, 160, 144, 0.2);}
